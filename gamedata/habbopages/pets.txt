@@ -1,0 +1,60 @@
+﻿Pets
+<span class="padding-top"><br></span><h3>Use pet + (nome)</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- gato</b> - Vire um Gato</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- crocodilo</b> - Vire um Crocodilo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- terrier</b> - Vire um Terrier<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- urso</b> - Vire um Urso</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- porco</b> - Vire um Porco</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- leao</b> - Vire um Leão</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- rino</b> - Vire um Rinoceronte</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- aranha</b> - Vire uma Aranha</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- tartaruga</b> - Vire uma Tartaruga</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- pintinho</b> - Vire um Pintinho</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- sapo</b> - Vire um Sapo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- dragao</b> - Vire um Dragão</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- macaco</b> - Vire um Macaco</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- cavalo</b> - Vire um Cavalo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- plantamonstro</b> - Vire uma Planta monstro</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- coelho</b> - Vire um Coelho</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- cmau</b> - Vire um Coelho do mau</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- cmarrom</b> - Vire um Coelho marrom</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- crosa</b> - Vire um Coelho rosa</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- pbranco</b> - Vire um Pintinho branco</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- ppreto</b> - Vire um Pintinho preto</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- mmau</b> - Vire um Macaco mau</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- burso</b> - Vire um Bebê urso</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- bterrier</b> - Vire um Bebê Terrier</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- gnomo</b> - Vire um Gnomo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- duende</b> - Vire um Duende</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- bgato</b> - Vire um Bebê Gato</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- bcachorro</b> - Vire um Bebê Cachorro</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- bporco</b> - Vire um Bebê Porco</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- haloompa</b> - Vire um Haloompa</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- pedra</b> - Vire uma Pedra</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- pterodactyl</b> - Vire um Pterodactyl</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- velociraptor</b> - Vire um Celociraptor</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- vaca</b> - Vire uma Vaca</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- cachorro</b> - Vire um Cachorro</p><span class="padding-bottom"><br></span>
+<br><img src="https://i.imgur.com/zOydgU5.png" /><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+

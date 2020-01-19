@@ -1,0 +1,55 @@
+Comandos Bix
+<span class="padding-top"><br></span><h3>Comandos STAFF</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:alerta {usuário} <mensagem></b> Envia um alerta para um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:trocas {usuário}</b> Habilita/Desabilita as trocas de um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:emblema {usuário}</b> Envia um emblema para o usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:ban {usuário} {tempo em segundos}</b> Banir a conta de um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:balao {ID 1-20}</b> Muda o estilo do seu balão de fala.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:controlar {usuário}</b> Controla um usuário.<br>Use o comando sem {usuário} para liberar o usuário controlado.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:moedas {usuário} {quantia}</b> Dar moedas ao usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:dc {usuário}</b> Desconecta o usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:duckets</b> Dar duckets ao usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:evento {nome do evento}</b> Anunciar seu evento.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:congelar {usuário}</b> Congelar um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:congelarbots</b> Congelar todos os bots do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:presente {usuário} {ID item}</b> Envia um item a um usuário por presente anônimo.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:darcargo {usuário} {ID cargo}</b> Dar cargo ao usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:hotel {mensagem}</b> Alerta para todos os usuários online.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:hlink {link} {mensagem}</b> Alerta com link para todos os usuários online.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:happyhour</b> Envia uma recompensa para todos os usuários online.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:ipban {usuário}</b> Banir o IP do usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:pcban {usuário}</b> Banir o computador do usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:massbadge {ID emblema}</b> Dar emblema a todos on-line.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:masscredits {quantia}</b> Dar moedas a todos on-line.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:massduckets {quantia}</b> Dar duckets a todos on-line.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:massgift {ID item}</b> Dar um item como presente anônimo a todos on-line.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:masspoints {quantia}</b> Dar diamantes a todos on-line.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:mute {usuário}</b> Silenciar um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:mutebots</b> Silenciar todos os bots do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:mutepets</b> Silenciar todos os pets do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:diamantes {usuário} {quantia}</b> Dar diamantes ao usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:quarto {mensagem}</b> Alertar todos os usuários que estão no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:moedas_quarto {quantia}</b> Dar moedas para todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:efeito_quarto {ID efeito}</b> Dar efeito para todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:mute_quarto</b> Silenciar o quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:duckets_quarto {quantia}</b> Dar duckets para todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:diamantes_quarto {quantia}</b> Dar diamantes para todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:presente_quarto {ID item}</b> Dar um item como presente anônimo a todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:fala {usuário} {mensagem}</b> Força o usuário a dizer a mensagem.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:fala_quarto {mensagem}</b> Força todos os usuários no quarto a dizerem a mensagem.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:setmax {valor}</b> Definir o limite de usuários no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:grito {usuário} {mensagem}</b> Força o usuário a gritar a mensagem.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:grito_quarto {mensagem}</b> Força todos os usuários no quarto a gritarem a mensagem.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:sa/:staffalert {mensagem}</b> Envia um alerta para todos da Equipe.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:seguir {usuário}</b> Seguir um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:invocar {usuário}</b> Invocar um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:invocar_cargo {ID cargo}</b> Invocar todos os usuários com o respectivo cargo.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:superban {usuário}</b> Dar ban em um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:takebadge {usuário} {ID emblema}</b> Remover um emblema de um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:desbanir {usuário}</b> Desbanir um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:unmute {usuário}</b> Desmutar um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:userinfo {usuário}</b> Ver as informações de um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:quiz {mensagem}</b> Cria uma votação temporária no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:bemvindo {usuário}</b> Mensagem de boas vindas.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:venderquarto {quantia em moedas}</b> Colocar seu quarto à venda.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:cassino</b> Faz do quarto atual um cassino oficial.</p><span class="padding-bottom"><br></span>

@@ -1,0 +1,50 @@
+Comandos Bix
+<span class="padding-top"><br></span><h3>Comandos Públicos</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:cstaff</b> Mostra a página de comandos da Equipe.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>@{usuário}</b> Chamar um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:info</b> Mostra informações do Hotel em tempo real.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:seguir {usuário}</b> Seguir um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:alertas</b> Ativa/Desativa o bloqueio de alertas de eventos.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:fianca</b> Pague sua fiança.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:diagonal</b> Habilita/Desabilita movimentação em diagonal no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:ejectall</b> Retirar todos os mobis que outras pessoas colocaram no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:limpar</b> Limpar o inventário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:limparbots</b> Limpar todos os bots do inventário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:limparpets</b> Limpar todos os pets do inventário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:efeito/:ativar {ID 0-200}</b> Ativar um efeito.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:item {ID item}</b> Pegar um item de mão.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:wired</b> Esconde/Mostra os wireds do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:kickall</b> Expulsar todos que estão no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:deitar</b> Deitar o personagem.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:moonwalk</b> Andar de costas.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:pickall</b> Escolher todos os itens do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:puxar {usuário}</b> Puxar um usuário pra perto de você.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:empurrar {usuário}</b> Empurrar um usuário pra longe de você.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:reload</b> Recarrega seu quarto para você e todos os usuários presentes.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:roller {valor}</b> Definir a velocidade dos rollers.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:sentar</b> Sentar seu avatar.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:equipe</b> Mostra uma lista dos membros da Equipe Bix online no momento.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:puxada {usuário}</b> Puxar com força um usuário pra onde você está.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:pet</b> Transformar em um mascote.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:comprarquarto</b> Comprar o quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:aus/:ausente</b> Ativa o modo ausente.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:altura/:alt {valor}</b> Define a altura do mobi (lajota alternativa).</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:fdados</b> Fecha os dados ao seu redor.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:fdados all</b> Fecha todos os dados do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:abc {usuário}</b> Abraçar.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:bj {usuário}</b> Beijar.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:pagar {usuário} {quantia} {credits/diamonds/duckets}</b> Pagar um usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:venderquarto {quantia em moedas}</b> Colocar seu quarto à venda.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:sair</b> Sai do quarto atual.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:rdados</b> Roda os dados ao seu redor.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:treta</b> Assistir à treta</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Comandos VIP</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:copiar/:mimic {usuário}</b> Copiar usuário.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:tp</b> Teleportar pelo quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:quarto {mensagem}</b> Envia um alerta para todos os usuários no seu quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:efeito_quarto {ID efeito}</b> Dar efeito para todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:sentar_quarto</b> Sentar todos os usuários no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:noeffects</b> Desabilitar efeitos no quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:item_quarto {ID item}</b> Dá um item de mão a todos do quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:ovo</b> Transforme seus amigos em um ovo de páscoa.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>:nitro</b> Anda super rápido.</p><span class="padding-bottom"><br></span>
